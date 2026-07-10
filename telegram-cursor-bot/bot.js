@@ -4,9 +4,9 @@ const fs = require("fs");
 const path = require("path");
 
 // Configuration
-const BOT_TOKEN = "8645051857:AAHTjN7RZqaZSa9rFHgGY8JHkayC3PZME5A"; 
-const ALLOWED_USER_ID = 5101211596; 
-const targetDir = "C:/Users/Digital/OneDrive/Desktop/project"; 
+const BOT_TOKEN = "PASTE_YOUR_BOT_API_HERE"; 
+const ALLOWED_USER_ID = PASTE_YOUR_TELEGRAM_ID_HERE; 
+const targetDir = "ENTER_THE_FULL_DIRECTORY_OF_THE_FOLDER_HERE"; 
 
 const bot = new Bot(BOT_TOKEN);
 
